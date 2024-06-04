@@ -1,7 +1,7 @@
 ### Implementasi tehnik hybrid secara simetris untuk react dan express js
 
 
-Tentu! Berikut adalah contoh lebih rinci tentang menggabungkan **enkripsi hybrid RSA+AES** dalam aplikasi **React.js** dan **Express.js**:
+Berikut adalah contoh tentang menggabungkan **enkripsi hybrid RSA+AES** dalam aplikasi **React.js** dan **Express.js**:
 
 1. **Instalasi Dependencies**:
     - Pastikan Anda memiliki proyek React.js dan Express.js yang sudah dibuat.
